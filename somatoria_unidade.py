@@ -5,7 +5,7 @@ def SomarAgora1(valor1, valor2):
 
     if (Resultado / 10) < 10 and (Resultado / 10) >= 1:
 
-        print 'O valor digitado e uma dezena  O valor digitado e uma dezena  O valor digitado e uma dezena  O valor digitado e uma dezena'
+        print 'O valor digitado e uma dezena  O valor digitado e uma dezena'
     elif (Resultado / 100) < 10 and (Resultado / 100) >= 1:
         print 'O valor digitado e uma centena'
     elif (Resultado / 1000) < 10 and (Resultado / 1000) >= 1:
